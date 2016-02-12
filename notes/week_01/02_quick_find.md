@@ -26,7 +26,11 @@ value 2 2 2 2 2 5 5 5
 
 {0,1,2,3,4} {5,6,7}
 
+實作的 code 會放在[這裡](https://github.com/abalone0204/Learn-Algorithms/blob/master/codes/week_01/QuickFindUF.java)
 
+跟原本實作不一樣的地方是我加了一個 `show_array()`，
+
+這樣更容易去觀察 array 值的變化。
 
 
 
