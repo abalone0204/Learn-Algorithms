@@ -19,6 +19,8 @@
 
 - You should download the `algs4.jar` to get started.
 
+
+
 # Intro
 
 - week 1
