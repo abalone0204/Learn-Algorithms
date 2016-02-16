@@ -81,7 +81,9 @@ public void show_array() {
 
 # 2. Path compression
 
-- 只要在 root 中多加一行
+- 讓每個點盡量都能直接連接到 root，讓 tree 更扁平
+
+- 只要在 root 中多加一行：
 
 ```java
 private int root(int i) {
